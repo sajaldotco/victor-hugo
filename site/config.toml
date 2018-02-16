@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://sajal.ml/"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "Sajal Mondal"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
